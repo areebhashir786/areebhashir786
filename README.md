@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Areeb Hashir</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working at **MobileLIVE Inc.**
+- 🔭 I’m currently working at **Ilmversity.**
 
-- 🌱 I’m currently learning **Cloud-based services**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 Here is my Portfolio link  [https://areebhashir786.wixsite.com/areebhashir](https://areebhashir786.wixsite.com/areebhashir)
 
